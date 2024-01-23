@@ -1,4 +1,5 @@
 package exception;
+//Cindy Alya Putri 22533644 TI 3D
 public class ArrayIndexOutOfBoundsExceptionCindy {
 
     public static void main(String[] args) {
