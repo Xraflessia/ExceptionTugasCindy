@@ -9,7 +9,7 @@ public class NullPointerExceptionCindy {
             System.out.println("Panjang string: " + length);
         } catch (NullPointerException e) {
             System.out.println("Error: Objek null tidak dapat digunakan.");
-            // Penanganan error lainnya sesuai kebutuhan
+            // Penanganan error menggunakan objek null
         }
     }
 
