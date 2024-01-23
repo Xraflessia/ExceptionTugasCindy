@@ -9,7 +9,7 @@ public class ArrayIndexOutOfBoundsExceptionCindy {
             System.out.println("Nilai array: " + value);
         } catch (ArrayIndexOutOfBoundsException e) {
             System.out.println("Error: Indeks array di luar batas.");
-            // Penanganan error lainnya sesuai kebutuhan
+            // Penanganan error Index diluar batas
         }
     }
 
