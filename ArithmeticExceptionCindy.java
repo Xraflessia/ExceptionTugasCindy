@@ -8,7 +8,7 @@ public class ArithmeticExceptionCindy {
             System.out.println("Hasil pembagian: " + result);
         } catch (ArithmeticException e) {
             System.out.println("Error: Pembagian oleh nol tidak diizinkan.");
-            // Penanganan error lainnya sesuai kebutuhan
+            // Penanganan error pembagian menggunakan nol
         }
     }
     private static int divideByZero() {
